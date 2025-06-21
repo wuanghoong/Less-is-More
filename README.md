@@ -11,5 +11,5 @@ If you make use of this code  in your work, please cite the following paper:
             eprint={2501.12946},
             archivePrefix={arXiv},
             primaryClass={cs.SI},
-            url={https://arxiv.org/abs/2501.12946}, 
+            url={https://arxiv.org/abs/2501.12946}
 }  </pre>
